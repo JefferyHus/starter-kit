@@ -1,14 +1,14 @@
-**1. Array Manipulation:**
+**1. Array Manipulation:** [Solution](solutions/Array%20Manipulation.md)
    - Implement algorithms to find the maximum and minimum values in an array.
    - Solve the problem of finding duplicates in an array.
    - Rotate an array to the left or right by a given number of steps.
 
-**2. Linked Lists:**
+**2. Linked Lists:** [Solution](solutions/Linked%20Lists.md)
    - Implement a singly linked list and various operations like insertion, deletion, and traversal.
    - Detect and remove loops in a linked list.
    - Reverse a linked list both iteratively and recursively.
 
-**3. Sorting:**
+**3. Sorting:** [Solution](solutions/Sorting.md)
    - Implement popular sorting algorithms like Bubble Sort, Selection Sort, Merge Sort, and Quick Sort.
    - Solve problems related to sorting, such as finding the kth smallest/largest element in an array.
 
